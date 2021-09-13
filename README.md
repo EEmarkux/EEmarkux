@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EEmarkux
+- 👋 Hi, I’m @EEmarkux, I'm a newbie and a student
 - 👀 I’m interested in Electrical and Electronics Engineering
 - 🌱 I’m currently learning some electrical and electronics projects.
 - 💞️ I’m looking to collaborate on any projects..
